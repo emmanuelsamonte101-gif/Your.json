@@ -1,0 +1,28 @@
+{
+  "showDialog": true,
+  "title": "🔐 Secure Login",
+  "description": "Please login first to continue using this Mod app before safe token.",
+  "button": "LOGIN",
+  "toast": "✅ Successfully Logged In!",
+  "renewUrl": "https://t.me/SkyLand02",
+  "devices": [
+    {
+      "device_id": "5000396a53007a32",
+      "username": "joanamodz",
+      "password": "372727",
+      "expire_date": "2025-10-08"
+    },
+    {
+      "device_id": "c2ed5c7070f5c1b1",
+      "username": "trial",
+      "password": "trial4hr",
+      "expire_date": "2025-10-08"
+    },
+    {
+      "device_id": "testdevice11223344",
+      "username": "user",
+      "password": "pass",
+      "expire_date": "2026-06-01"
+    }
+  ]
+}
