@@ -1,28 +1,31 @@
 {
-  "showDialog": true,
-  "title": "🔐 Secure Login",
-  "description": "Please login first to continue using this Mod app before safe token.",
-  "button": "LOGIN",
-  "toast": "✅ Successfully Logged In!",
-  "renewUrl": "https://t.me/SkyLand02",
-  "devices": [
+  "licenses": [
     {
-      "device_id": "5000396a53007a32",
-      "username": "joanamodz",
-      "password": "372727",
-      "expire_date": "2025-26-10"
+      "key": "123456",
+      "device_id": "9e947ac4-0204-448a-ae11-16273c39d0f3",
+      "expiry_date": "2026-02-13",
+      "active": true,
+      "status": "active",
+      "created_date": "2026-02-01",
+      "max_devices": 1
     },
     {
-      "device_id": "c2ed5c7070f5c1b1",
-      "username": "trial",
-      "password": "trial4hr",
-      "expire_date": "2025-10-08"
+      "key": "alpha@123",
+      "device_id": "b0f4640d-4dc6-4cdd-a543-cc2a0577f33a", 
+      "expiry_date": "2015-12-30",
+      "active": true,
+      "status": "active",
+      "created_date": "2024-01-15",
+      "max_devices": 1
     },
     {
-      "device_id": "testdevice11223344",
-      "username": "user",
-      "password": "pass",
-      "expire_date": "2026-06-01"
+      "key": "TEST-0000-DEMO-1111",
+      "device_id": "",
+      "expiry_date": "2024-12-31",
+      "active": false,
+      "status": "inactive",
+      "created_date": "2024-01-01",
+      "max_devices": 1
     }
   ]
 }
